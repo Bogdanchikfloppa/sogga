@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.bakery__shop{
+   background-color:burlywood;
+   width: 1550px;
+   height: 800px;
+}
+.img__bakery{
+    display: flex;
+    justify-content: center;
+}
+.bakery__navbar{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.bread__img{
+    display: flex;
+    justify-content: center;
+}
+.pelmen{
+    background-color: burlywood;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+.bakery__text{
+    background-color: burlywood;
+    font-family: 'Philosopher', sans-serif;
+    text-align: center;
+    justify-content: center;
+}
+.bakery__map{
+    display: flex;
+    background-color: burlywood;
+}
+.floppa{
+    background-color: burlywood;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
